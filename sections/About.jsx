@@ -17,7 +17,7 @@ const About = () => (
     >
       <TypingText title=" | About Metaversus" textStyles="text-center" />
     </motion.div>
-    About section
+    About section check
   </section>
 );
 
