@@ -1,8 +1,10 @@
-React-Next.js project created with [`create-next-app`] focused on the metaverse.
+React-Next.js application created with [`create-next-app`] focused on the metaverse.
 
-## Run the development server with command "npm run dev" or "yarn dev"
-## Leran more about Next.js with it's documentation: [https://nextjs.org/docs]
+To run the development server, type "npm run dev" or "yarn dev".
+
+Next.js documentation: [https://nextjs.org/docs]
+Tailwind documentation: [https://tailwindcss.com/docs]
 
 Project deployed on netlify:
 
-[react-meta.netlify.app]
+[react-meta-madness.netlify.app]
