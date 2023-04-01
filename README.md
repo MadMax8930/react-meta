@@ -7,4 +7,4 @@ Tailwind documentation: [https://tailwindcss.com/docs]
 
 Project deployed on netlify:
 
-[[https://react-meta-madness.netlify.app]
+[https://react-meta-madness.netlify.app]
